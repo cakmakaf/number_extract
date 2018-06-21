@@ -2,6 +2,7 @@
 
 We gave a method of how could numbers be extracted from a list of strings.
 
+
 ## Project Description
 
 In this file, assume that we have list of strings such as
@@ -9,6 +10,7 @@ In this file, assume that we have list of strings such as
 {"321","ahmet","1983ah","25","python"}
 
 We will extract only the numbers out of this list
+
 
 ## Execution
 
